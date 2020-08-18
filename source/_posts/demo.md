@@ -11,7 +11,7 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: https://res.cloudinary.com/ddb5vwne6/image/upload/v1597750359/sample.jpg
+thumbnailImage: https://res.cloudinary.com/ddb5vwne6/image/upload/v1597758372/timg_fy8o3h.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center

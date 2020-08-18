@@ -10,7 +10,7 @@ keywords:
 - javascript
 - hexo
 clearReading: true
-thumbnailImage: https://res.cloudinary.com/ddb5vwne6/image/upload/v1597750359/sample.jpg
+thumbnailImage: https://res.cloudinary.com/ddb5vwne6/image/upload/v1597758390/timg_1_zfnerf.jpg
 thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
