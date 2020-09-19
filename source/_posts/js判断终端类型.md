@@ -1,6 +1,6 @@
 ---
 title: 判断终端类型
-date: 2023-04-14 09:47:13
+date: 2018-04-14 09:47:13
 tags:
     - js
 categories:
@@ -11,7 +11,7 @@ keywords:
 - javascript
 clearReading: true
 thumbnailImage: https://res.cloudinary.com/ddb5vwne6/image/upload/v1597758372/timg_fy8o3h.jpg
-thumbnailImagePosition: bottom
+thumbnailImagePosition: left
 autoThumbnailImage: yes
 metaAlignment: center
 coverImage: cover-v1.2.0.jpg
